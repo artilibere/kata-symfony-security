@@ -1,0 +1,2 @@
+# symfony-kata
+Learning Symfony
